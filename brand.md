@@ -1,0 +1,2 @@
+# Spot the Glitch
+Direction: playful geometric print studio. Comfortable density; warm paper with a single white game panel. Bold tightly tracked Arial display type, readable system sans body, monospace status labels. Coral #f36b51 with dark ink #262722; muted text #66665c; paper #f5f3eb. Dark text on coral buttons. Crisp small CSS entrances; no motion required to understand play. Original SVG puzzles; no external fonts or imagery. Voice: short, encouraging, specific. Avoid fake social proof, excessive cards, gradients, or decorative metrics.
